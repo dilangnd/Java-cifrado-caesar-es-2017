@@ -6,6 +6,19 @@ public class Criptografia {
 	 * Programa basado en el 
 	 * https://en.wikipedia.org/wiki/Caesar_cipher
 	 */
+	
+	/* 
+	* @author DylanPerez
+ 	* @category ProyectoAcademico
+	* @version 1.1.0
+	* @since 2017
+ 	*/
+
+/*
+ * Ejecuta este archivo como Aplicacion Java y navega con los comandos numéricos
+ * Si quieres entrar a la zona de Admin, el usuario es 'MASTER' y la clave es '7'
+ * Si me quieres contactar, estoy en Linkedin como ** Dylan Perez **
+ */
 
 	public static void main(String[] args) {
 		int key = 17;
